@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "adaptr"]
+	path = adaptr
+	url = https://github.com/inceptdk/adaptr
+	shallow = true
+	registered = true
